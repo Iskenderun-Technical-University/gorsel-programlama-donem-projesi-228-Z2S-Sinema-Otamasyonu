@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z2S Kullanıcı Girişi ve Şifre", "Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre.csproj", "{5CC1B93F-B401-4DBF-ABB6-71EE73A7D0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC1B93F-B401-4DBF-ABB6-71EE73A7D0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC1B93F-B401-4DBF-ABB6-71EE73A7D0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC1B93F-B401-4DBF-ABB6-71EE73A7D0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC1B93F-B401-4DBF-ABB6-71EE73A7D0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F3F64A-7B7B-487B-8D36-97FC856F90B9}
+	EndGlobalSection
+EndGlobal

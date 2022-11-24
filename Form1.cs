@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Vizyondaki_Filmler_ve_Bilgileri
+namespace Z2S_Kullanıcı_Girişi_ve_Şifre
 {
     public partial class Form1 : Form
     {
@@ -17,7 +17,7 @@ namespace Vizyondaki_Filmler_ve_Bilgileri
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
 
         }
