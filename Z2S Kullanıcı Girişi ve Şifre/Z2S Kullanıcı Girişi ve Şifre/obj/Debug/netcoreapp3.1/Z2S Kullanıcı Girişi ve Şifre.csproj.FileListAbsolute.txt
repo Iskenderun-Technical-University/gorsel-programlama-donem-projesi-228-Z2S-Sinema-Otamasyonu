@@ -1,0 +1,69 @@
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.exe
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.deps.json
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.json
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.dev.json
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Form1.resources
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Properties.Resources.resources
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfo.cs
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\musta\source\repos\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.genruntimeconfig.cache
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.AssemblyReference.cache
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Properties.Resources.resources
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.GenerateResource.cache
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfoInputs.cache
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfo.cs
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.CoreCompileInputs.cache
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.exe
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.deps.json
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.json
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.dev.json
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Kullanici_Girisi_ve_Sifre.resources
+C:\Users\musta\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.genruntimeconfig.cache
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.exe
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.deps.json
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.json
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.dev.json
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Kullanici_Girisi_ve_Sifre.resources
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Properties.Resources.resources
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Vizyondaki_Filmler_ve_Bilgileri.resources
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfo.cs
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\musta\Desktop\Z2S Sinema Otomsyonu 3.Kopya\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.genruntimeconfig.cache
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.exe
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.deps.json
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.json
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.runtimeconfig.dev.json
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\bin\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csprojAssemblyReference.cache
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Kullanici_Girisi_ve_Sifre.resources
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Properties.Resources.resources
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S_Kullanıcı_Girişi_ve_Şifre.Vizyondaki_Filmler_ve_Bilgileri.resources
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.GenerateResource.cache
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfoInputs.cache
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.AssemblyInfo.cs
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.dll
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.pdb
+C:\Users\sinan\Downloads\Compressed\Z2S Kullanıcı Girişi ve Şifre\Z2S Kullanıcı Girişi ve Şifre\obj\Debug\netcoreapp3.1\Z2S Kullanıcı Girişi ve Şifre.genruntimeconfig.cache
