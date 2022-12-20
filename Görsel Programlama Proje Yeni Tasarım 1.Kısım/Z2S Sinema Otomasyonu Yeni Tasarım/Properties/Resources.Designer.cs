@@ -133,6 +133,16 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap Tadım {
+            get {
+                object obj = ResourceManager.GetObject("Tadım", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap Yunus_Çocuk {
             get {
                 object obj = ResourceManager.GetObject("Yunus Çocuk", resourceCulture);

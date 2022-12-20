@@ -16,6 +16,12 @@
     <Compile Update="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Hesap_Makinesi_Kısmı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Koltuk_Seçimi_Kısmı.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Kurak_Günler.cs">
       <SubType>Form</SubType>
     </Compile>

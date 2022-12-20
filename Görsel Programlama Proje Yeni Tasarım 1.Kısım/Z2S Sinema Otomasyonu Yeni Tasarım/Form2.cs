@@ -14,7 +14,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
         {
             InitializeComponent();
         }
-
+         
         private void Form2_Load(object sender, EventArgs e)
         {
 
@@ -77,6 +77,22 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             //kg=Kurak Günler
             Kurak_Günler kg = new Kurak_Günler();
             kg.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //hmk=Hesap Makinesi Kısmı
+            Hesap_Makinesi_Kısmı hmk = new Hesap_Makinesi_Kısmı();
+            hmk.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //frm1=Form 1
+            Form1 frm1 = new Form1();
+            frm1.Show();
+            this.Hide();
         }
     }
 }

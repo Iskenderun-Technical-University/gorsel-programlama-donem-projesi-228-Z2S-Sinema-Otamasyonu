@@ -29,5 +29,10 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.Hide();
             
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
