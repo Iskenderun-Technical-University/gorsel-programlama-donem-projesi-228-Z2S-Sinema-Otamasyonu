@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ajan_Kedi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Avatar_Suyun_Yolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bugday_Tanesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kurak_Günler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nasreddin_Hoca_Zaman_Yolcusu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yunus_Çocuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Çakallarla_Dans_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Şeytanın_Kızı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

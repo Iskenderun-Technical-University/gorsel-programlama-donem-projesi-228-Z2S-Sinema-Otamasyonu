@@ -1,0 +1,84 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Özet
+Çocuk filmi
+Ajan Kedi, evden çıkması yasak olan ancak evin dışındaki dünyayı merak eden sevimli kedi Marnie'nin,
+sokağa adım atması ile birlikte yaşadığı maceraları konu ediyor. 
+Marnie, kendisinin şaşkın bir insan evladı olduğuna inanan, küçük, tombul bir kedidir.
+Sevimli kedi, asla bebek sahibi olamayan ve bu yüzden tüm ilgisini ona veren sahibi Rosalinde ile yaşamaktadır.
+Sahibi ona tam bir prenses gibi bakmakta ve istediği ne varsa anlamaktadır.
+Evden çıkması yasak olan ve günlerini uyuyarak, yemek yiyerek ve
+televizyon izleyerek geçiren Marnie'nin aklı fikri evin dışındaki dünyadadır.
+Dışarıda olanları fazlasıyla merak eden Marnie, Rosalinde’in düzenbaz kardeşi Paul tarafından da aklı çelinince,
+kendisini bilmediği bir dünyanın içerisinde bulur. Tek başına atıldığı bu macerada ona,
+korkak bir köpek, nevrotik bir horoz ve bir eşek eşlik eder.</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>16 Aralık 2022 Sinemada / 1s 25dk / Animasyon, Aile
+Yönetmen Christoph Lauenstein, Wolfgang Lauenstein
+Senarist Jesper Møller, Christoph Lauenstein
+Oyuncular: Alexandra Neldel, Axel Prahl, Santiago Ziesmer
+Orijinal adı Marnies Welt</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</value>
+  </data>
+</root>
