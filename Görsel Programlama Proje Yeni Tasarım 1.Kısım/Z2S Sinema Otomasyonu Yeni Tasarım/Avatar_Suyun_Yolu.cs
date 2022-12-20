@@ -21,13 +21,15 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
 
         private void Avatar_Suyun_Yolu_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             deger = true;
-            if (radioButton7.Checked == true) {
+
+            if (radioButton7.Checked == true)
+            {
                 saat = radioButton7.Text;
             }
             else if (radioButton8.Checked == true)
@@ -44,7 +46,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             }
             if (DateTime.Now <= dateTimePicker1.Value)
             {
-                tarih=dateTimePicker1.Value.ToString("dd:MM:yyyy");
+                tarih = dateTimePicker1.Value.ToString("dd:MM:yyyy");
                 //ksk=Koltuk Seçimi kısmı
                 Koltuk_Seçimi_Kısmı ksk = new Koltuk_Seçimi_Kısmı();
                 ksk.Show();
@@ -53,13 +55,21 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             else {
                 MessageBox.Show("Geçmiş tarihli randevu oluşturulamaz");
             }
-            
+             
+    {
 
-        }
 
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
+            }
 
+            /*private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+            {
+
+            }
+
+            private void label1_Click(object sender, EventArgs e)
+            {
+
+            }*/
         }
 
         private void label1_Click(object sender, EventArgs e)

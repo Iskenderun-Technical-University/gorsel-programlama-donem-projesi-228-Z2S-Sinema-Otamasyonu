@@ -80,3 +80,31 @@ C:\Users\musta\Desktop\1. ve 2. film\Görsel Programlama Proje Yeni Tasarım 1.K
 C:\Users\musta\Desktop\1. ve 2. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.dll
 C:\Users\musta\Desktop\1. ve 2. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.pdb
 C:\Users\musta\Desktop\1. ve 2. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.genruntimeconfig.cache
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Ajan_Kedi.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Avatar_Suyun_Yolu.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Bugday_Tanesi.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Form1.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Form2.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Hesap_Makinesi_Kısmı.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Koltuk_Seçimi_Kısmı.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Kurak_Günler.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Nasreddin_Hoca_Zaman_Yolcusu.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Properties.Resources.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Yunus_Çocuk.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Çakallarla_Dans_6.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Şeytanın_Kızı.resources
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.AssemblyInfo.cs
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.dll
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.pdb
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.exe
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.deps.json
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.runtimeconfig.json
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.runtimeconfig.dev.json
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.dll
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\bin\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.pdb
+C:\Users\musta\Desktop\3. ve 4. film\Görsel Programlama Proje Yeni Tasarım 1.Kısım\Z2S Sinema Otomasyonu Yeni Tasarım\obj\Debug\netcoreapp3.1\Z2S Sinema Otomasyonu Yeni Tasarım.genruntimeconfig.cache

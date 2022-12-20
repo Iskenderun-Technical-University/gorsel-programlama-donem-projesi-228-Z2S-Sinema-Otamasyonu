@@ -75,8 +75,24 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
                 Çakallarla_Dans_6.deger=false;
             }
 
+            else if (Nasreddin_Hoca_Zaman_Yolcusu.deger == true)
+            {
+                listBox1.Items.Add(Nasreddin_Hoca_Zaman_Yolcusu.saatdegeri);
+                listBox1.Items.Add(Nasreddin_Hoca_Zaman_Yolcusu.filmadidegeri);
+                listBox1.Items.Add(Nasreddin_Hoca_Zaman_Yolcusu.tarihdegeri);
+               Nasreddin_Hoca_Zaman_Yolcusu.deger = false;
+            }
 
-            
+            else if (Yunus_Çocuk.deger == true)
+            {
+                listBox1.Items.Add(Yunus_Çocuk.timedeger);
+                listBox1.Items.Add(Yunus_Çocuk.filmsnamedeger);
+                listBox1.Items.Add(Yunus_Çocuk.datedeger);
+                Yunus_Çocuk.deger = false;
+            }
+
+
+
 
             foreach (string koltukismi in Koltuk_Seçimi_Kısmı.koltuk_sec)
             {

@@ -178,7 +178,6 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(223, 23);
             this.dateTimePicker1.TabIndex = 64;
-            this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
             // 
             // Avatar_Suyun_Yolu
             // 

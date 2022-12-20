@@ -48,6 +48,8 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.radioButton13 = new System.Windows.Forms.RadioButton();
             this.radioButton14 = new System.Windows.Forms.RadioButton();
             this.label7 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -57,7 +59,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.pictureBox4.Image = global::Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Properties.Resources.Yunus_Çocuk;
             this.pictureBox4.Location = new System.Drawing.Point(12, 12);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(371, 593);
+            this.pictureBox4.Size = new System.Drawing.Size(371, 639);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 4;
             this.pictureBox4.TabStop = false;
@@ -101,7 +103,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.groupBox2.Controls.Add(this.radioButton13);
             this.groupBox2.Controls.Add(this.radioButton14);
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(407, 405);
+            this.groupBox2.Location = new System.Drawing.Point(407, 452);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(236, 184);
             this.groupBox2.TabIndex = 64;
@@ -271,18 +273,41 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.label7.TabIndex = 58;
             this.label7.Text = "Seans Saatleri:\r\n12.00-14.00\r\n17.00-19.00\r\n";
             // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.White;
+            this.button2.Font = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(897, 555);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(193, 43);
+            this.button2.TabIndex = 65;
+            this.button2.Text = "Diğer Sayfaya Geç";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.CalendarFont = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.dateTimePicker1.Location = new System.Drawing.Point(407, 413);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(223, 23);
+            this.dateTimePicker1.TabIndex = 66;
+            // 
             // Yunus_Çocuk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(1119, 617);
+            this.ClientSize = new System.Drawing.Size(1119, 676);
+            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox4);
             this.Name = "Yunus_Çocuk";
             this.Text = "Yunus_Çocuk";
+            this.Load += new System.EventHandler(this.Yunus_Çocuk_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
@@ -311,5 +336,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
         private System.Windows.Forms.RadioButton radioButton13;
         private System.Windows.Forms.RadioButton radioButton14;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }
