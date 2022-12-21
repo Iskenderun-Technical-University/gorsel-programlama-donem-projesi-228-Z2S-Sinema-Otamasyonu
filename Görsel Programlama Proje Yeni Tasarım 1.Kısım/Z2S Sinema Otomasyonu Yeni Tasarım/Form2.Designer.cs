@@ -259,7 +259,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             // 
             this.button2.BackColor = System.Drawing.Color.White;
             this.button2.Font = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(100, 671);
+            this.button2.Location = new System.Drawing.Point(690, 666);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(193, 43);
             this.button2.TabIndex = 18;
@@ -271,7 +271,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             // 
             this.button1.BackColor = System.Drawing.Color.White;
             this.button1.Font = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(690, 671);
+            this.button1.Location = new System.Drawing.Point(100, 666);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(193, 43);
             this.button1.TabIndex = 19;

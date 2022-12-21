@@ -48,6 +48,8 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.label7 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -57,10 +59,11 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.pictureBox6.Image = global::Z2S_Sinema_Otomasyonu_Yeni_Tasarım.Properties.Resources.Şeytanın_Kızı;
             this.pictureBox6.Location = new System.Drawing.Point(12, 12);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(372, 614);
+            this.pictureBox6.Size = new System.Drawing.Size(369, 641);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 7;
             this.pictureBox6.TabStop = false;
+            this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
             // 
             // groupBox2
             // 
@@ -78,7 +81,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.groupBox2.Controls.Add(this.radioButton13);
             this.groupBox2.Controls.Add(this.radioButton14);
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(402, 397);
+            this.groupBox2.Location = new System.Drawing.Point(402, 453);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(236, 189);
             this.groupBox2.TabIndex = 71;
@@ -270,18 +273,41 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
     " Klipstine, Amy Mills\r\nOyuncular: Madeleine McGraw, Irene Bedard, Teal Redmann\r\n" +
     "Orijinal adı The Harbinger";
             // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.White;
+            this.button2.Font = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(1091, 599);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(171, 43);
+            this.button2.TabIndex = 91;
+            this.button2.Text = "Diğer Sayfaya Geç";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.CalendarFont = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.dateTimePicker1.Location = new System.Drawing.Point(402, 409);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 23);
+            this.dateTimePicker1.TabIndex = 92;
+            // 
             // Şeytanın_Kızı
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(1298, 665);
+            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox6);
             this.Name = "Şeytanın_Kızı";
             this.Text = "Şeytanın_Kızı";
+            this.Load += new System.EventHandler(this.Şeytanın_Kızı_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
@@ -310,5 +336,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }

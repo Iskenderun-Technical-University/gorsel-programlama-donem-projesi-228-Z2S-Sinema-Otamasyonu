@@ -107,6 +107,22 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
                 Bugday_Tanesi.deger = false;
             }
 
+            else if (Şeytanın_Kızı.deger == true)
+            {
+                listBox1.Items.Add(Şeytanın_Kızı.saatt);
+                listBox1.Items.Add(Şeytanın_Kızı.filmadii);
+                listBox1.Items.Add(Şeytanın_Kızı.tarihh);
+                Şeytanın_Kızı.deger = false;
+            }
+
+            else if (Kurak_Günler.deger == true)
+            {
+                listBox1.Items.Add(Kurak_Günler.a);
+                listBox1.Items.Add(Kurak_Günler.b);
+                listBox1.Items.Add(Kurak_Günler.c);
+                Kurak_Günler.deger = false;
+            }
+
 
 
             foreach (string koltukismi in Koltuk_Seçimi_Kısmı.koltuk_sec)

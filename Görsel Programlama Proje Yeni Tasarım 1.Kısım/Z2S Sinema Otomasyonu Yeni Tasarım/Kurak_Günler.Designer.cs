@@ -48,6 +48,8 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.label7 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -78,7 +80,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.groupBox2.Controls.Add(this.radioButton13);
             this.groupBox2.Controls.Add(this.radioButton14);
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(420, 405);
+            this.groupBox2.Location = new System.Drawing.Point(420, 429);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(236, 189);
             this.groupBox2.TabIndex = 74;
@@ -269,18 +271,41 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.label1.Text = "9 Aralık 2022 Sinemada / 2s 8dk / Dram, Gerilim\r\nYönetmen Emin Alper\r\nSenarist Em" +
     "in Alper\r\nOyuncular: Selahattin Paşalı, Ekin Koç, Hatice Aslan";
             // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.CalendarFont = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.dateTimePicker1.Location = new System.Drawing.Point(420, 386);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 23);
+            this.dateTimePicker1.TabIndex = 93;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.White;
+            this.button2.Font = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(1093, 612);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(171, 43);
+            this.button2.TabIndex = 94;
+            this.button2.Text = "Diğer Sayfaya Geç";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Kurak_Günler
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(1293, 674);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox5);
             this.Name = "Kurak_Günler";
             this.Text = "Kurak_Günler";
+            this.Load += new System.EventHandler(this.Kurak_Günler_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
@@ -309,5 +334,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Button button2;
     }
 }
