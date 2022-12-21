@@ -48,6 +48,8 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.label7 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -61,6 +63,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox7.TabIndex = 6;
             this.pictureBox7.TabStop = false;
+            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
             // 
             // groupBox2
             // 
@@ -78,7 +81,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.groupBox2.Controls.Add(this.radioButton13);
             this.groupBox2.Controls.Add(this.radioButton14);
             this.groupBox2.Controls.Add(this.label7);
-            this.groupBox2.Location = new System.Drawing.Point(442, 390);
+            this.groupBox2.Location = new System.Drawing.Point(442, 419);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(236, 184);
             this.groupBox2.TabIndex = 68;
@@ -270,12 +273,34 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
             this.label1.Text = "2 Aralık 2022 Sinemada / 2s 0dk / Dram\r\nYönetmen Doğan Ümit Karaca\r\nSenarist Volk" +
     "an Kapkın\r\nOyuncular: Kutsi, Yeliz Akkaya, Deniz Arna";
             // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.CalendarFont = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.dateTimePicker1.Location = new System.Drawing.Point(442, 380);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 23);
+            this.dateTimePicker1.TabIndex = 89;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.White;
+            this.button2.Font = new System.Drawing.Font("Segoe Print", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(1168, 630);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(171, 43);
+            this.button2.TabIndex = 90;
+            this.button2.Text = "Diğer Sayfaya Geç";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Bugday_Tanesi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(1370, 699);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -311,5 +336,7 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Button button2;
     }
 }

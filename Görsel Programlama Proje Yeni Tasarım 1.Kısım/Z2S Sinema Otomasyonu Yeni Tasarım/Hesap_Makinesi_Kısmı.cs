@@ -91,6 +91,21 @@ namespace Z2S_Sinema_Otomasyonu_Yeni_Tasarım
                 Yunus_Çocuk.deger = false;
             }
 
+            else if (Ajan_Kedi.deger == true)
+            {
+                listBox1.Items.Add(Ajan_Kedi.x);
+                listBox1.Items.Add(Ajan_Kedi.y);
+                listBox1.Items.Add(Ajan_Kedi.z);
+                Ajan_Kedi.deger = false;
+            }
+
+            else if (Bugday_Tanesi.deger == true)
+            {
+                listBox1.Items.Add(Bugday_Tanesi.timee);
+                listBox1.Items.Add(Bugday_Tanesi.filmsnamee);
+                listBox1.Items.Add(Bugday_Tanesi.datee);
+                Bugday_Tanesi.deger = false;
+            }
 
 
 
